@@ -1,0 +1,9 @@
+.box{
+    background: greenyellow;
+}
+.slider-item{
+    background: greenyellow ;
+    padding: 50px 40px;
+    text-align: center;
+    font-size: 30px;
+}

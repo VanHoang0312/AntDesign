@@ -1,0 +1,129 @@
+{
+  "book-room": [
+    {
+      "id": "d7b2",
+      "time": "10 giờ",
+      "fullname": "Lê Văn Hoàng",
+      "phone": "0358838344",
+      "email": "vanhoang3123003@gmail.com",
+      "date": [
+        "20-06-2024",
+        "23-06-2024"
+      ],
+      "services": [
+        "Thuê du thuyền",
+        "Thuê phục vụ"
+      ],
+      "gift": "Áo phông"
+    },
+    {
+      "id": "09e8",
+      "time": "14 giờ",
+      "fullname": "Trần Ngọc Tiến",
+      "phone": "0935778329",
+      "email": "Tien1234@gmai.com",
+      "date": [
+        "19-06-2024",
+        "21-06-2024"
+      ],
+      "services": [
+        "Thuê du thuyền",
+        "Thuê quần áo",
+        "Thuê phục vụ",
+        "Thuê xe máy"
+      ],
+      "gift": "Gấu bông"
+    }
+  ],
+  "rooms": [
+    {
+      "id": "b6e9",
+      "name": "P101",
+      "describe": "Nội dung mô tả.........",
+      "quantityBed": 3,
+      "quantityPeople": 6,
+      "utils": [
+        "wifi",
+        "Nóng lạnh",
+        "Điều hòa"
+      ],
+      "status": true
+    },
+    {
+      "id": "de78",
+      "name": "P102",
+      "describe": "Mô tả.......",
+      "quantityBed": 6,
+      "quantityPeople": 12,
+      "utils": [
+        "wifi",
+        "Nóng lạnh",
+        "Điều hòa"
+      ]
+    },
+    {
+      "id": "ffa7",
+      "name": "P103",
+      "describe": "Mô tả..............................................",
+      "quantityBed": 3,
+      "quantityPeople": 6,
+      "utils": [
+        "Wifi",
+        "Nóng lạnh",
+        "Điều hòa"
+      ],
+      "status": true,
+      "typeRoom": true
+    },
+    {
+      "id": "6af3",
+      "name": "P104",
+      "describe": "Mô tả",
+      "quantityBed": 4,
+      "quantityPeople": 8,
+      "utils": [
+        "Điều hòa"
+      ],
+      "status": true
+    },
+    {
+      "id": "6a1e",
+      "name": "P105",
+      "describe": "Mô tả",
+      "quantityBed": 1,
+      "quantityPeople": 2,
+      "utils": [
+        "wifi"
+      ],
+      "typeRoom": false
+    },
+    {
+      "id": "da9f",
+      "name": "P106",
+      "describe": "Mô tả.....",
+      "quantityBed": 10,
+      "quantityPeople": 20,
+      "utils": [
+        "Wifi",
+        "Nóng lạnh",
+        "Điều hòa"
+      ],
+      "status": true,
+      "typeRoom": true
+    },
+    {
+      "id": "1563",
+      "name": "P107",
+      "describe": "Mô tả.....",
+      "quantityBed": 3,
+      "quantityPeople": 6,
+      "utils": [
+        "Wifi",
+        "Nóng lạnh",
+        "Điều hòa"
+      ],
+      "status": false,
+      "typeRoom": true
+    }
+  ]
+}
